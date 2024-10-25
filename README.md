@@ -1,8 +1,11 @@
+# [Burnabeenews](https://www.burnabeenews.com)
 ![Home Page](https://res.cloudinary.com/dndev4rnw/image/upload/v1729861416/folwkvdmo1h5hahqf9hi.png)
 
-# Burnabeenews
 
 Welcome to the showcase of Burnabeenews, a dynamic news platform that provides the latest updates across various genres including Dollywood, Hollywood, Bollywood, Tollywood, interviews, and sports, technology etc.
+
+## Live Demo
+Check out the live version of the site: [Burnabeenews](https://www.burnabeenews.com)
 
 ## Features
 
